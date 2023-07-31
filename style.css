@@ -1,0 +1,41 @@
+.heading {
+    font-size: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px darkcyan;
+}
+
+.note {
+    font-size: 15px;
+    color: aliceblue;
+}
+
+.note2 {
+    font-size: 15px;
+    color: white;
+    box-shadow: 5px 5px 5px darkolivegreen;
+}
+
+.develop {
+    color: black;
+    width: 100%;
+    background-color: darkcyan;
+    bottom: 0;
+    position: fixed;
+    line-height: 3;
+    box-shadow: 5px 5px 5px rgb(0, 128, 255);
+    font-size: 17px;
+    font-weight: bolder;
+
+}
+
+canvas{
+    border:5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(194, 156, 106);
+}
+
+body {
+    background-image: url("https://img.freepik.com/free-vector/hand-drawn-doodle-background_23-2149973179.jpg?w=2000");
+    background-position: center;
+    background-size: cover;
+}
